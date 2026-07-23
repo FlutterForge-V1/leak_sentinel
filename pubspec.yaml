@@ -4,8 +4,8 @@ description: >
   leaks — undisposed controllers, uncancelled subscriptions and timers — and
   offers one-click fixes in your IDE and CI.
 version: 0.1.0
-repository: https://github.com/FlutterForge-V1/leak_sentinel
-issue_tracker: https://github.com/FlutterForge-V1/leak_sentinel/issues
+repository: https://github.com/openforge-oss/leak_sentinel
+issue_tracker: https://github.com/openforge-oss/leak_sentinel/issues
 topics:
   - lint
   - memory-leak

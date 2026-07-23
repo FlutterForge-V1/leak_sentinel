@@ -25,5 +25,5 @@ leaks in Flutter `State` classes and offers one-click fixes.
 - Example project wired with `expect_lint` assertions that double as the
   integration test.
 
-[Unreleased]: https://github.com/FlutterForge-V1/leak_sentinel/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/FlutterForge-V1/leak_sentinel/releases/tag/v0.1.0
+[Unreleased]: https://github.com/openforge-oss/leak_sentinel/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/openforge-oss/leak_sentinel/releases/tag/v0.1.0

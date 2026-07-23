@@ -15,7 +15,7 @@ flag) or a **broken auto-fix** that changes program behavior.
 Please **do not** open a public issue for a suspected vulnerability. Instead:
 
 1. Use GitHub's **private vulnerability reporting**:
-   <https://github.com/FlutterForge-V1/leak_sentinel/security/advisories/new>
+   <https://github.com/openforge-oss/leak_sentinel/security/advisories/new>
 2. Include a minimal reproduction and the affected version.
 
 You can expect an acknowledgement within 5 business days.

@@ -1,7 +1,7 @@
 # Contributing to leak_sentinel
 
 Thanks for helping make Flutter apps leak less! This project is part of
-[OpenForge](https://github.com/FlutterForge-V1), and community contributions —
+[OpenForge](https://github.com/openforge-oss), and community contributions —
 especially new leak patterns you've hit in real apps — are the whole point.
 
 ## Ground rules
@@ -16,7 +16,7 @@ especially new leak patterns you've hit in real apps — are the whole point.
 You need the Flutter SDK (which bundles Dart). Then:
 
 ```bash
-git clone https://github.com/FlutterForge-V1/leak_sentinel
+git clone https://github.com/openforge-oss/leak_sentinel
 cd leak_sentinel
 
 # Resolve the plugin package
@@ -108,4 +108,4 @@ runs exactly this, so if it's green locally it'll be green on the PR.
 - Prefer syntactic (AST) detection over the analyzer element model unless a rule
   genuinely needs resolved types — it keeps us resilient across SDK bumps.
 
-Questions? Open a [discussion or issue](https://github.com/FlutterForge-V1/leak_sentinel/issues).
+Questions? Open a [discussion or issue](https://github.com/openforge-oss/leak_sentinel/issues).

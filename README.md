@@ -1,6 +1,6 @@
 # 🛡️ leak_sentinel
 
-[![CI](https://github.com/FlutterForge-V1/leak_sentinel/actions/workflows/ci.yaml/badge.svg)](https://github.com/FlutterForge-V1/leak_sentinel/actions/workflows/ci.yaml)
+[![CI](https://github.com/openforge-oss/leak_sentinel/actions/workflows/ci.yaml/badge.svg)](https://github.com/openforge-oss/leak_sentinel/actions/workflows/ci.yaml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![style: custom_lint](https://img.shields.io/badge/style-custom__lint-navy)](https://pub.dev/packages/custom_lint)
 
@@ -9,7 +9,7 @@
 > uncancelled subscriptions and timers — and fixes them with one click, in your
 > IDE and in CI.
 
-Part of [**OpenForge**](https://github.com/FlutterForge-V1) — open-source
+Part of [**OpenForge**](https://github.com/openforge-oss) — open-source
 solutions to the problems developers hit across frameworks. `leak_sentinel` is
 OpenForge's Flutter/Dart tool.
 

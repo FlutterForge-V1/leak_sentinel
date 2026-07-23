@@ -8,7 +8,7 @@ analyzer:
     # custom_lint (this version) still targets the analyzer's classic element
     # model, so we intentionally use the pre-`element2` API. Silence the
     # transition-period deprecations until custom_lint_builder migrates.
-    # Tracked in https://github.com/FlutterForge-V1/leak_sentinel/issues
+    # Tracked in https://github.com/openforge-oss/leak_sentinel/issues
     deprecated_member_use: ignore
 
 linter:
