@@ -57,7 +57,7 @@ an individual is officially representing the community in public spaces.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at the
-[FlutterForge-V1](https://github.com/FlutterForge-V1) organization — open a private
+[OpenForge](https://github.com/FlutterForge-V1) organization — open a private
 security advisory on this repository or contact an organization owner directly.
 All complaints will be reviewed and investigated promptly and fairly.
 

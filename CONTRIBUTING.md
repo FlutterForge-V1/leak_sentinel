@@ -1,7 +1,7 @@
 # Contributing to leak_sentinel
 
 Thanks for helping make Flutter apps leak less! This project is part of
-[FlutterForge-V1](https://github.com/FlutterForge-V1), and community contributions —
+[OpenForge](https://github.com/FlutterForge-V1), and community contributions —
 especially new leak patterns you've hit in real apps — are the whole point.
 
 ## Ground rules

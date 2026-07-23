@@ -9,8 +9,9 @@
 > uncancelled subscriptions and timers — and fixes them with one click, in your
 > IDE and in CI.
 
-Part of [**FlutterForge-V1**](https://github.com/FlutterForge-V1) — a community effort
-to turn the recurring pain points Flutter engineers hit into open-source tools.
+Part of [**OpenForge**](https://github.com/FlutterForge-V1) — open-source
+solutions to the problems developers hit across frameworks. `leak_sentinel` is
+OpenForge's Flutter/Dart tool.
 
 ---
 
@@ -167,12 +168,12 @@ already released in `dispose()`, and report the rest. The fix is a single
 ## Contributing
 
 Issues and PRs are very welcome — this is exactly the kind of community-driven
-fix FlutterForge-V1 exists for. Start with [CONTRIBUTING.md](CONTRIBUTING.md) and
+fix OpenForge exists for. Start with [CONTRIBUTING.md](CONTRIBUTING.md) and
 our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-[MIT](LICENSE) © 2026 FlutterForge-V1.
+[MIT](LICENSE) © 2026 OpenForge.
 
 ## Acknowledgements
 
