@@ -1,8 +1,8 @@
 name: leak_sentinel
-description: >
-  A Dart & Flutter custom_lint plugin that hunts down disposal-based memory
-  leaks — undisposed controllers, uncancelled subscriptions and timers — and
-  offers one-click fixes in your IDE and CI.
+description: >-
+  A custom_lint plugin that finds disposal-based memory leaks in Flutter —
+  undisposed controllers, uncancelled subscriptions and timers — and fixes
+  them with one click.
 version: 0.1.0
 repository: https://github.com/openforge-oss/leak_sentinel
 issue_tracker: https://github.com/openforge-oss/leak_sentinel/issues

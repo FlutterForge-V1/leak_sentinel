@@ -146,7 +146,7 @@ It is **not** a runtime heap-leak detector. For retention that only shows up at
 runtime (closures held by singletons, unbounded caches), pair it with the
 Flutter team's [`leak_tracker`](https://pub.dev/packages/leak_tracker) and
 DevTools' memory view. Static and runtime detection are complementary, not
-substitutes — see [`docs/DESIGN.md`](docs/DESIGN.md) for where the boundary is.
+substitutes — see [`doc/DESIGN.md`](doc/DESIGN.md) for where the boundary is.
 
 ## How it works
 

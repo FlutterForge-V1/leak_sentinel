@@ -1,0 +1,20 @@
+name: Publish to pub.dev
+
+# Publishes automatically when a version tag is pushed (e.g. v0.1.0), using
+# pub.dev's OIDC-based automated publishing — no secrets required.
+#
+# One-time setup on pub.dev (package Admin → Automated publishing):
+#   enable "Publishing from GitHub Actions", repository = openforge-oss/leak_sentinel,
+#   tag pattern = v{{version}}. The FIRST publish must be done manually
+#   (`dart pub publish`) because automated publishing can only be configured
+#   once the package exists.
+on:
+  push:
+    tags:
+      - "v[0-9]+.[0-9]+.[0-9]+*"
+
+jobs:
+  publish:
+    permissions:
+      id-token: write # required for pub.dev OIDC authentication
+    uses: dart-lang/setup-dart/.github/workflows/publish.yml@v1

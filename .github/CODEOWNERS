@@ -1,0 +1,12 @@
+# Code owners for leak_sentinel.
+# These users are requested for review automatically on matching PRs, and
+# (with "Require review from Code Owners" branch protection) must approve.
+
+# Default owner for everything in the repo
+*                       @davidcreated
+
+# Lint rules & the shared engine — the core of the package
+/lib/                   @davidcreated
+
+# CI / release / security automation
+/.github/               @davidcreated
